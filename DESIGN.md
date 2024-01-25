@@ -12,6 +12,7 @@ Design a simplified booking system for this epic.
 
 
 ### Model
+NOTE - The model uses Crow´s Foot Notation for relation cardinalities.
 
 ![Database model](./database_model.png)
 
